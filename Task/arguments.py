@@ -31,7 +31,5 @@ def fun(**kwargs):
 	for key,value in kwargs.items():
 		print(key,value)
 fun(name="subha",age=20,phno=123)
-#TASK
-# pass by value,pass by reference
 
 
